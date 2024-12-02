@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis Project
 
-##Project Overview
+## Project Overview
 This project implements a machine learning model for sentiment analysis on Twitter data, using logistic regression to classify tweets as positive or negative.
 Project Steps
 ### Data Acquisition
